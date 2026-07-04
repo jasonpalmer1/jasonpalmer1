@@ -13,6 +13,7 @@ I build production AI systems with [Claude Code](https://claude.com/claude-code)
 - 🔬 **[wafergraph](https://wafergraph.com)** — the semiconductor & AI supply-chain graph (530+ companies, financials, dependencies, chokepoint exposure)
 - 🌐 **[jasonwpalmer.com](https://jasonwpalmer.com)** — portfolio / live résumé
 - ⚙️ **[claude-code-setup](https://github.com/jasonpalmer1/claude-code-setup)** — my Claude Code power-user config (memory system, commands, hooks)
+- ⚽ **[worldcup-bracket](https://github.com/jasonpalmer1/worldcup-bracket)** — World Cup 2026 prediction pool in a single Cloudflare Worker, zero build step · 🕸️ **[react-canvas-force-graph](https://github.com/jasonpalmer1/react-canvas-force-graph)** — dependency-free force graph component
 
 ### Stack
 
