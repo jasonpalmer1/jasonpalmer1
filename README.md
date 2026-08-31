@@ -15,7 +15,6 @@ I build production AI systems with [Claude Code](https://claude.com/claude-code)
 - 🌐 **[jasonwpalmer.com](https://jasonwpalmer.com)** — portfolio / live résumé
 - ⚙️ **[claude-code-setup](https://github.com/jasonpalmer1/claude-code-setup)** — my Claude Code power-user config (memory system, commands, hooks)
 - 📝 **[wafergraph-pipeline](https://github.com/jasonpalmer1/wafergraph-pipeline)** — how wafergraph's data pipeline works: architecture, design decisions, and two real data-integrity incidents (write-up only, by design)
-- 🏈 **[whosstarting-methodology](https://github.com/jasonpalmer1/whosstarting-methodology)** — the player rating algorithm behind Who's Starting, in full — math, diagrams, and the bugs that shaped it
 - 🧠 **[tiered-agent-memory](https://github.com/jasonpalmer1/tiered-agent-memory)** — how my agent memory system works: three tiers, a typed knowledge graph, spreading-activation retrieval — with honest benchmarks and the bugs they caught
 - 🛰️ **[running-an-ai-fleet](https://github.com/jasonpalmer1/running-an-ai-fleet)** — operator's guide to running many AI coding sessions in parallel: chain of command, delegation, verification rites, and the incidents that forged the rules
 - ⚽ **[worldcup-bracket](https://github.com/jasonpalmer1/worldcup-bracket)** — World Cup 2026 prediction pool in a single Cloudflare Worker, zero build step · 🕸️ **[react-canvas-force-graph](https://github.com/jasonpalmer1/react-canvas-force-graph)** — dependency-free force graph component
